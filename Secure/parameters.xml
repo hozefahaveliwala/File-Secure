@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters
+mode = "e"
+inputfilepath = "C:\Users\Admin\Desktop"
+inputfilename = "PeaceCamp.jpg"
+encryptedfilepath = "C:\Users\Admin\Desktop"
+encryptedfilename = "hello.jpg"
+dencryptedfilepath = ""
+dencryptedfilename = "pop.jpg"
+>
+</parameters>
